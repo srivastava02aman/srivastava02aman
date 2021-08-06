@@ -28,7 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava02aman&layout=compact)
 
 <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srivastava02aman" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="srivastava02aman" height="40" width="40" /></a>
