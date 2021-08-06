@@ -1,5 +1,11 @@
-### Hi there 👋
-https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif
+### <h1 align="center">Hi :wave:, I'm Aman Srivastava</h1>
+<h3 align="center">A Mern Stack Developer from <span>
+  <img height="30px" width="30px" src=https://user-images.githubusercontent.com/59872807/89734872-6a279400-da7c-11ea-891e-86ef7e7cf071.jpg>
+  <span></h3>
+ <p align="center">
+  <img src=https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif >
+ </p> 
+
 <!--
 **srivastava02aman/srivastava02aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
