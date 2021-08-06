@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Node" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
-<br><br><br>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava02aman)
 
