@@ -34,8 +34,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srivastava02aman" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="srivastava02aman" height="40" width="40" border-radius:60% /></a>
-<a href="https://instagram.com/amaan_sri/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="amaan_sri" height="40" width="40" border-radius:60% /></a>
+<a href="https://linkedin.com/in/srivastava02aman" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="srivastava02aman" height="40" width="40" border-radius: 60% /></a>
+<a href="https://instagram.com/amaan_sri/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="amaan_sri" height="40" width="40" border-radius: 20px /></a>
 </p>
 <!--
 **srivastava02aman/srivastava02aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
