@@ -1,12 +1,9 @@
 ### <h1 align="center">Hi :wave:, I'm Aman Srivastava</h1>
-<h3 align="center">A Mern Stack Developer from <span>
-  <img height="30px" width="30px" src=https://user-images.githubusercontent.com/59872807/89734872-6a279400-da7c-11ea-891e-86ef7e7cf071.jpg>
-  <span></h3>
+<h3 align="center">A Full Stack Web Developer</h3>
  <p align="center">
   <img src=https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif >
  </p> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastava02aman&label=Profile%20views&color=129e00&style=plastic" alt="srivastava02aman" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <!--
 **srivastava02aman/srivastava02aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
