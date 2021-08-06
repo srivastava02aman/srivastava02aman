@@ -22,11 +22,11 @@
 
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava02aman)
+### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava02aman)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava02aman&layout=compact)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava02aman&layout=compact)
 
 <br>
 
