@@ -5,9 +5,10 @@
 </p> 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastava02aman&label=Profile%20views&color=129e00&style=plastic" alt="srivastava02aman" /> </p>
-<br>
-### Technical Skills:
 
+<br><br>
+
+### Technical Skills:
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
