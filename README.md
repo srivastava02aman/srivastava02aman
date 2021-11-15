@@ -38,10 +38,6 @@
 <img align="left" alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
 
-<br><br><br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava02aman)
-
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava02aman&layout=compact)
