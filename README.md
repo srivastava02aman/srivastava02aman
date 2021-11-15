@@ -11,6 +11,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastava02aman&label=Profile%20views&color=129e00&style=plastic" alt="srivastava02aman" /> </p>
 <br>
 
+
+
+<a href="https://github.com/anjalidalal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anjali Dalal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalidalal&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+
+
+
+
+
+
+
+
+
+
 ### Technical Skills:
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
