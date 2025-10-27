@@ -2,8 +2,8 @@
 <h3 align="center">A Full Stack Web Developer</h3>
 <p align="center">
   <img src="https://www.pngplay.com/wp-content/uploads/13/Programmer-Transparent-File.png" 
-     width="40%" 
-     height="10%" />
+     width="50%" 
+     height="8%" />
   
 </p> 
 
