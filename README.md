@@ -12,24 +12,17 @@
 <br>
 
 
-
 <a href="https://github.com/srivastava02aman/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Srivastava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava02aman&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-
-
-
-
-
-
-
-
 
 
 ### Technical Skills:
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+<img align="left" alt="nextjs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 <img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
 <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
