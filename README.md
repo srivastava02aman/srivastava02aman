@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aman+Srivastava+👋;Full+Stack+Web+Developer+💻;JavaScript+|+React+|+Next.js+|+Node.js+|+MongoDB;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aman+Srivastava+👋;Full+Stack+Web+Developer+💻;JavaScript+|+React+|+Next.js+|+Node.js+ ;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG">
 </p>
 
 ---
